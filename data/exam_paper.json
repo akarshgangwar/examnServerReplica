@@ -1,0 +1,1742 @@
+[
+    {
+      "id": "1",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A resistance of \\( 2 \\omega \\) is connected across one gap of a metre-bridge (the length of the wire is 100 cm) and an unknown resistance, greater than \\( 2 \\omega \\), is connected across the other gap. When these resistances are interchanged, the balance point shifts by 20 cm. Neglecting any corrections, the unknown resistance is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 3 \\omega \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 4 \\omega \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 5 \\omega \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 6 \\omega \\)" }
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " In an experiment to determine the focal length \\(f \\) of a concave mirror by the u-v method, a student places the object pin \\( A \\) on the principal axis at a distance x from the pole <b>P</b>. The student looks at the pin and its inverted image from a distance keeping his/her eye in line with <b>PA</b>. When the student shifts his/her eye towards left, the image appears to the right of the object pin. Then,",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( x < f \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( f < x < 2f \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( x = 2f \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( x >  2f \\)" }
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Two particles of mass m each are tied at the ends of a light string of length \\( 2a \\). The whole system is kept on a frictionless horizontal surface with the string held tight so that each mass is at a distance \\( a \\) from the center P (as shown in the figure). Now, the mid-point of the string is pulled vertically upwards with a small but constant force \\( F \\). As a result, the particles move towards each other on the surface. The magnitude of acceleration, when the separation between them becomes 2x, is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\(\\frac{F}{2m}\\frac{a}{\\sqrt{a^2 - x^2}} \\)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\( \\frac{F}{2m} \\frac{x}{\\sqrt{a^2 - x^2}} \\)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\( \\frac{F}{2m} \\frac{x}{a} \\)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\( \\frac{F}{2m} \\frac{\\sqrt{a^2 - x^2}}{x} \\)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A long, hollow conducting cylinder is kept coaxially inside another long, hollow conducting cylinder of larger radius. Both the cylinders are initially electrically neutral.",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "A potential difference appears between the two cylinders when a charge density is given to the inner cylinder"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "A potential difference appears between the two cylinders when a charge density is given to the outer cylinder"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "No potential difference appears between the two cylinders when a uniform line charge is kept along the axis of the cylinders"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "No potential difference appears between the two cylinders when same charge density is given to both the cylinders"
+          }
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Consider a neutral conducting sphere. A positive point charge is placed outside the sphere. The net charge on the sphere is then,",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "negative and distributed uniformly over the surface of the sphere"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "negative and appears only at the point on the.sphere closest to the point charge"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "negative and distributed non-uniformly over the entire surface of the sphere"
+          }
+        },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "zero" } }
+      ]
+    },
+    {
+      "id": "6",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A circuit is connected as shown in the figure with the switch S open. When the switch is closed, the total amount of charge that flows",
+        "merged": 0,
+        "image": "https://serve.educationproject.xyz/editor/image/get?i=j06dx4e9.jpg"
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 0 \\mu C \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 54 \\muC \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 27 \\mu  C \\)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\( 81 \\mu  C \\)" }
+        }
+      ]
+    },
+    {
+      "id": "7",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A ray of light traveling in water is incident on its surface open to air. The angle of incidence is \\( \\theta \\), which is less than the critical angle. Then there will be",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "only a reflected ray and no refracted ray"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "only a refracted ray and no reflected ray"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "a reflected ray and a refracted ray and the angle between them would be less than \\( 180°-2 \\theta \\)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "a reflected ray and a refracted ray and the angle between them. would be greater than \\( 180°-2 \\theta \\)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "8",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " In the options given below, let E denote the rest mass energy of a nucleus and n a neutron. The correct option is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "E(_{92}^{236}\\textrm{U}) &gt; E(_{53}^{137}\\textrm{I}) + E(_{39}^{97}\\textrm{Y}) + 2E(n)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "E(_{92}^{236}\\textrm{U}) &lt; E(_{53}^{137}\\textrm{I}) + E(_{39}^{97}\\textrm{Y}) + 2E(n)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "E(_{92}^{236}\\textrm{U}) &lt; E(_{56}^{140}\\textrm{Ba}) + E(_{36}^{94}\\textrm{Kr}) + 2E(n)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "E(_{92}^{236}\\textrm{U}) = E(_{56}^{140}\\textrm{Ba}) + E(_{36}^{94}\\textrm{Kr}) + 2E(n)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "9",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The largest wavelength in the ultraviolet region of the hydrogen spectrum is 122 nm. The smallest wavelength in the infrared region of the hydrogen spectrum (to the nearest integer) is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "802 nm" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "823 nm" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "1882 nm" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "1648 nm" }
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " <b>STATEMENT-1: </b>A block of mass <i>m</i> starts moving on a rough horizontal surface with a velocity <i>v</i>. It stops due to friction between the block and the surface after moving through a certain distance. The surface is now tilted to an angle of 30° with the horizontal and the same block is made to go up on the surface with the same initial velocity vu. The decrease in the mechanical energy in the second situation is smaller than that in the first situation. <b>because</b> <b>STATEMENT-2: </b>The coefficient of friction between the block and the surface decreases with the increase in the angle of inclination.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "11",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " <b>STATEMENT-1:</b> In an elastic collision between two bodies, the relative speed of the bodies after collision is equal to the relative speed before the collision. <b>because</b> <b>STATEMENT-2:</b> In an elastic collision, the linear momentum of the system is conserved.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "12",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " <b>STATEMENT-1:</b> The formula connecting u,v and f for a spherical mirror is valid only for mirrors whose sizes are very small compared to their radii of curvature. <b>because</b> <b>STATEMENT-2: </b>Laws of reflection are strictly valid for plane surfaces, but not for large spherical surfaces.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1l is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "13",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " <b>STATEMENT-1: </b>If the accelerating potential in an A-ray tube is increased, the wavelengths of the characteristic X-rays do not change. <b>because</b> <b>STATEMENT-2: </b>When an electron beam strikes the target in an X-ray tube, part of the kinetic energy is converted into X-ray energy.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 1s False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "14",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " When disc B is brought in contact with disc A, they acquire a common angular velocity in time ¢. The average frictional torque on one disc by the other during this period is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2 I \\omega}{3t}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{9 I \\omega}{2t}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{9 I \\omega}{4t}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{3 I \\omega}{2t}" }
+        }
+      ]
+    },
+    {
+      "id": "15",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The loss of kinetic energy during the above process is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{I \\omega^{2}}{2}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{I \\omega^{2}}{3}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{I \\omega^{2}}{4}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{I \\omega^{2}}{6}" }
+        }
+      ]
+    },
+    {
+      "id": "16",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The piston is now pulled out slowly and held at a distance 2L from the top. The pressure in the cylinder between its top and the piston will then be",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "P_{0}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{P_{0}}{2}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{P_{0}}{2} + \\frac{Mg}{\\pi R^{2}}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{P_{0}}{2} - \\frac{Mg}{\\pi R^{2}}"
+          }
+        }
+      ]
+    },
+    {
+      "id": "17",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " While the piston is at a distance 2L from the top, the hole at the top is sealed. The piston is then released, to a position where it can stay in equilibrium. In this condition, the distance of the piston from the top is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{2 P_{0} \\pi R^{2}}{\\pi R^{2} P_{0} + M<i>g</i>} * (2L)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{P_{0} \\pi R^{2} - Mg}{\\pi R^{2} P_{0}} * (2L)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{P_{0} \\pi R^{2} + Mg}{\\pi R^{2} P_{0}} * (2L)"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{P_{0} \\pi R^{2}}{\\pi R^{2} P_{0} - M<i>g</i>} * (2L)"
+          }
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The piston is taken completely out of the cylinder. The hole at the top is sealed. A water tank is brought below the cylinder and put in a position so that the water surface in the tank is at the same level as the top of the cylinder as shown in the figure. The density of the water is a. In equilibrium, the height H of the water column in the cylinder satisfies",
+        "merged": 0,
+        "image": "https://serve.educationproject.xyz/editor/image/get?i=5nzmbizu.jpg"
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\rho g(L_{0}-H)^{2} + P_{0}(L_{0}-H) + L_{0}P_{0} = 0"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\rho g(L_{0}-H)^{2} - P_{0}(L_{0}-H) - L_{0}P_{0} = 0"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\rho g(L_{0}-H)^{2} + P_{0}(L_{0}-H) - L_{0}P_{0} = 0"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\rho g(L_{0}-H)^{2} - P_{0}(L_{0}-H) + L_{0}P_{0} = 0&nbsp;"
+          }
+        }
+      ]
+    },
+    {
+      "id": "19",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The species having bond order different from that in CO is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "NO^{0}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "NO^{+}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "CN^{-}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "N_{2}" }
+        }
+      ]
+    },
+    {
+      "id": "20",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Among the following, the paramagnetic compound is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "Na_{2}O_{2}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "O_{3}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "N_{2}O" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "KO_{2}" }
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Extraction of zinc from zinc blende is achieved by",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "electrolytic reduction" }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "roasting followed by reduction with carbon"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "roasting followed by reduction with another metal"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "roasting followed by self-reduction"
+          }
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " In the following reaction, the structure of the major product \"<b>X</b>\" is",
+        "merged": 0,
+        "image": "https://serve.educationproject.xyz/editor/image/get?i=9rwrlath.jpg"
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "" },
+          "image": "https://serve.educationproject.xyz/editor/image/get?i=s2jxsjal.jpg"
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "" },
+          "image": "https://serve.educationproject.xyz/editor/image/get?i=4n3lxw7g.jpg"
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "" },
+          "image": "https://serve.educationproject.xyz/editor/image/get?i=4mnhwlqo.jpg"
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "" },
+          "image": "https://serve.educationproject.xyz/editor/image/get?i=9ffsqhv4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The reagent(s) for the following conversion,&nbsp;",
+        "merged": 0,
+        "image": "https://serve.educationproject.xyz/editor/image/get?i=v0klmp3y.jpg"
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "alcoholic KOH" }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "alcoholic KOH followed by NaNH_{2}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "aqueous KOH followed by NaNH_{2}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "Zn / CH_{3}OH" }
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The number of structural isomers for C_{6}H_{14} is",
+        "merged": 0
+      },
+      "options": [
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "3" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "4" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "5" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "6" } }
+      ]
+    },
+    {
+      "id": "25",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The percentage of p-character in the orbitals forming P-P bonds in P_{4} is",
+        "merged": 0
+      },
+      "options": [
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "25" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "33" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "50" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "75" } }
+      ]
+    },
+    {
+      "id": "26",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " When 20 g of naphthoie acid (C_{11}H_{8}O_{2}) is dissolved in 50 g of benzene (K_{f}=1.72 K kg mol^{-1}), a freezing point depression of 2K is observed. The van't Hoff factor (<i>i</i>) is",
+        "merged": 0
+      },
+      "options": [
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "0.5" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "1" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "2" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "3" } }
+      ]
+    },
+    {
+      "id": "27",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The value of log_{10}K for a reaction A \\rightleftharpoons B is (Given: \\Delta_{r}H^{0}_{298K} = -54.07 kJ mol^{-1}, \\Delta_{r}S^{0}_{298K} = 10 JK^{-1} mol^{-1} and R = 8.314 JK^{-1}mol^{-1}; 2.303x8.314x298=5705)",
+        "merged": 0
+      },
+      "options": [
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "5" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "10" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "95" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "100" } }
+      ]
+    },
+    {
+      "id": "28",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " STATEMENT-1: Boron always forms covalent bond. because STATEMENT-2 : The small size of B^{3+} favours formation of covalent bond.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "29",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " STATEMENT-1 : In water, orthoboric acid behaves as a weak monobasic acid. because STATEMENT-2 : In water, orthoboric acid acts as a proton donor.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 1s NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "30",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " STATEMENT-1: p-Hydroxybenzoic acid has a lower boiling point than o-hydroxybenzoic acid. because STATEMENT-2 : o-Hydroxybenzoic acid has intramolecular hydrogen bonding.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "31",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " STATEMENT-1 : Micelles are formed by surfactant molecules above the critical micellar concentration (CMC). because STATEMENT-2 : The conductivity of a solution having surfactant molecules decreases sharply at the CMC.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "32",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Argon is used in arc welding because of its",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "low reactivity with metal" }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "ability to lower the melting point of metal"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "flammability" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "high calorific value" }
+        }
+      ]
+    },
+    {
+      "id": "33",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The structure of XeO_{3} is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "linear" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "planar" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "pyramidal" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "T-Shaped" }
+        }
+      ]
+    },
+    {
+      "id": "34",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " XeF_{4} and XeF_{6} are expected to be",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "oxidizing" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "reducing" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "unreactive" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "strongly basic" }
+        }
+      ]
+    },
+    {
+      "id": "35",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A 4.0 molar aqueous solution of NaCl is prepared and 500 mL of this solution is electrolysed. This leads to the evolution of chlorine gas at one of the electrodes (atomic mass : Na = 23, Hg = 200; 1 Faraday = 96500 coulombs). The total number of moles of chlorine gas evolved is",
+        "merged": 1
+      },
+      "options": [
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "0.5" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "1.0" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "2.0" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "3.0" } }
+      ]
+    },
+    {
+      "id": "36",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A 4.0 molar aqueous solution of NaCl is prepared and 500 mL of this solution is electrolysed. This leads to the evolution of chlorine gas at one of the electrodes (atomic mass : Na = 23, Hg = 200; 1 Faraday = 96500 coulombs). If the cathode is a Hg electrode, the maximum weight (g) of amagam formed from this solution is",
+        "merged": 1
+      },
+      "options": [
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "200" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "225" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "400" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "446" } }
+      ]
+    },
+    {
+      "id": "37",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A 4.0 molar aqueous solution of NaCl is prepared and 500 mL of this solution is electrolysed. This leads to the evolution of chlorine gas at one of the electrodes (atomic mass : Na = 23, Hg = 200; 1 Faraday = 96500 coulombs). The total charge (coulombs) required for complete electrolysis is",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "24125" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "48250" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "96500" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "193000" }
+        }
+      ]
+    },
+    {
+      "id": "38",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Let \\alpha, \\beta be the roots of the equation x^{2} - px + r = 0 and \\frac{\\alpha}{2}, 2\\beta be the roots of the equation x^{2}-qx+r=0. Then the value of r is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2}{9}*(p-q)*(2q-p)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2}{9}*(q-p)*(2p-q)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2}{9}*(q-2p)*(2q-p)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2}{9}*(2p-q)*(2q-p)" }
+        }
+      ]
+    },
+    {
+      "id": "39",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Let f(x) be differentiable on the interval (0, \\inf) such that f(1) =1, and \\lim_{t \\to x} \\frac{t^{2}f(x)-x^{2}f(t)}{t-x}=1&nbsp;for each x&gt;0. Then f(x) is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{1}{3x} +&nbsp;\\frac{2x^{2}}{3}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{-1}{3x} + \\frac{4x^{2}}{3}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{-1}{x} + \\frac{2}{x^{2}}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{1}{x}" }
+        }
+      ]
+    },
+    {
+      "id": "40",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " One Indian and four American men and their wives are to be seated randomly around a circular table. Then the conditional probability that the Indian man is seated adjacent to his wife given that each American man is seated adjacent to his wife is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{1}{2}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{1}{3}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2}{5}" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{1}{5}" }
+        }
+      ]
+    },
+    {
+      "id": "41",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The tangent to the curve y=e^{x} drawn at the point (c, e^{c}) intersects the line joining the points (c -1, e^{c-1}) and (c+1, e^{c+1})",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "on the left of x =e" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "on the right of x =c" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "at no point" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "at all points" }
+        }
+      ]
+    },
+    {
+      "id": "42",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " \\lim_{x \\to \\frac{\\pi}{4}} \\frac{\\int_{2}^{sec^{2}x} f(t)dt}{x^{2}-\\frac{\\pi^{2}}{16}} equals",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{8}{\\pi} f(2)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "\\frac{2}{\\pi} f(2)" }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "\\frac{2}{\\pi} f(\\frac{1}{2})"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "4f(2)" }
+        }
+      ]
+    },
+    {
+      "id": "43",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A hyperbola, having the transverse axis of length 2 sin \\theta, is confocal with the ellipse 3x^{2} + 4y^{2} = 12. Then its equation is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "x^{2} cosec^{2} \\theta - y^{2} sec^{2} \\theta = 1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "x^{2} sec^{2} \\theta - y^{2} cosec^{2} \\theta = 1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "x^{2} sin^{2} \\theta - y^{2} cos^{2} \\theta = 1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "x^{2} cos^{2} \\theta - y^{2} sin^{2} \\theta = 1"
+          }
+        }
+      ]
+    },
+    {
+      "id": "44",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The number of distinct real values of \\lambda, for which the vectors -\\lambda^{2} \\hat{i} + \\hat{j} + \\hat{k} , \\hat{i}-\\lambda^{2}\\hat{j}+\\hat{k} and \\hat{i}+\\hat{j}-\\lambda^{2}\\hat{k} are coplanar, is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "zero" }
+        },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "one" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "two" } },
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "three" }
+        }
+      ]
+    },
+    {
+      "id": "45",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " A man walks a distance of 3 units from the origin towards the north-east (N 45° E) direction. From there, he walks a distance of 4 units towards the north-west (N 45° W) direction to reach a point P. Then the position of P in the Argand plane is",
+        "merged": 0
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "3 \\exp^{i\\frac{\\pi}{4} + 4i"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "(3 - 4i) \\exp^{i\\frac{\\pi}{4}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "(4 + 3i) \\exp^{i\\frac{\\pi}{4}"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "(3 + 4i) \\exp^{i\\frac{\\pi}{4}"
+          }
+        }
+      ]
+    },
+    {
+      "id": "46",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " The number of solutions of the following pair of equations in the interval [0,2\\pi] is",
+        "merged": 0,
+        "image": "https://serve.educationproject.xyz/editor/image/get?i=ismfnbro.jpg"
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": { "type": "MCQOption", "value": "zero" }
+        },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "one" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "two" } },
+        { "type": "mcq_option", "data": { "type": "MCQOption", "value": "four" } }
+      ]
+    },
+    {
+      "id": "47",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Let H_{1},H_{2}...H_{n} be mutually exclusive and exhaustive events with P(H_{i}) &gt; 0, t=1, 2,...,n. Let E be any other event with 0 &lt; P(E) &lt;1. <b>STATEMENT-1: </b>P(H_{i} / E) &gt; P(E / H_{i}) * P(H_{i}) for i=1,2,...n because <b>STATEMENT-2:</b>&nbsp;\\Sigma_{i=1}^{n} P(H_{i}) = 1",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "48",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Tangents are drawn from the point (17, 7) to the circle x^{2} + y^{2} =169. STATEMENT-1:&nbsp;The tangents are mutually perpendicular. because The locus of the points from which mutually perpendicular tangents can be drawn to the given circle is x^{2} + y^{2} =338.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "49",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Let the vectors \\vec{PQ}, \\vec{QR}, \\vec{RS},\\vec{ST},\\vec{TU} and \\vec{UP} represent the sides of a regular hexagon. STATEMENT-1: \\vec{PQ} X ( \\vec{RS} + \\vec{ST} ) \\neq \\vec{0} because STATEMENT-2: \\vec{PQ} x \\vec{RS} = \\vec{0} and \\vec{PQ} x \\vec{ST} \\neq \\vec{0}",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "50",
+      "question": {
+        "type": "multiple_choice",
+        "statement": " Let F(x) be an indefinite integral of sin^{2} x. The function F(x) satisfies F(x + \\pi) = F(x) for all real x. because sin^{2} (x + \\pi) = sin^2 x for all real x.",
+        "merged": 1
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is True; Statement-2 is NOT a correct explanation for Statement-1"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is True, Statement-2 is False"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Statement-1 is False, Statement-2 is True"
+          }
+        }
+      ]
+    },
+    {
+      "id": "51",
+      "question": {
+        "type": "twos",
+        "data": {
+          "version": "withImage",
+          "image": "/editor/image/get?i=syhuci0m.jpg",
+          "statements": {
+            "style": "ordered",
+            "items": ["Statement 1", "Statement 2"]
+          }
+        }
+      },
+      "options": [
+        {
+          "type": "mcq_option",
+          "data": {
+            "value": "Option A",
+            "type": "MCQOption"
+          }
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Option B"
+          }
+        },
+        {
+          "data": {
+            "type": "MCQOption",
+            "value": "Option C"
+          },
+          "type": "mcq_option"
+        },
+        {
+          "type": "mcq_option",
+          "data": {
+            "type": "MCQOption",
+            "value": "Option D"
+          }
+        }
+      ]
+    },
+    {
+      "id": "52",
+      "question": {
+        "type": "numerical",
+        "data": {
+          "value": "The smallest value of x is _____ when (x, y) curve is given by&nbsp; \\( x^2 + y^2 = 4 \\)",
+          "type": "Numerical"
+        }
+      },
+      "options": [
+        {
+          "data": {
+            "value": "",
+            "type": "Solution"
+          },
+          "type": "solution"
+        }
+      ]
+    },
+    {
+      "id": "53",
+      "question": {
+        "data": {
+          "value": "In electromagnetic theory, the electric and magnetic phenomena are related to each other. Therefore the dimensions of electric and magnetic quantities must also be related to each other. In the questions below, \\( [E] \\) and \\( [B] \\) stand for dimensions for electric and magnetic fields respectively, while \\( [\\epsilon_0] \\) and \\( [\\mu_0] \\) stand for dimensions of permittivity and permeability of free space respectively. \\( [L] \\) and \\( [T] \\) stand for dimensions of length and time respectively. All the quantities are given in SI units.",
+          "type": "ParagraphQn"
+        },
+        "type": "paraq"
+      },
+      "quesData": [
+        {
+          "id": "1",
+          "question": {
+            "type": "multiple_choice",
+              "statement": "The relationship between \\( [E] \\) and \\( [B] \\) is"
+            },
+          "options": [
+            {
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( [E] = [B] [L] [T] \\)"
+              },
+              "type": "mcq_option"
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "value": "\\( [E] = [B] [L]^{-1} [T] \\)",
+                "type": "MCQOption"
+              }
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( [E] = [B] [L] [T]^{-1} \\)"
+              }
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( [E] = [B] [L]^{-1} [T]^{-1} \\)"
+              }
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "question": {
+            "statement": "The relationship between \\( [\\epsilon_0] \\) and \\( [\\mu_0] \\) is",
+            "type": "multiple_choice"
+          },
+          "options": [
+            {
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( [\\epsilon_0] = [\\mu_0] [L]^{2} [T]^{-2} \\)"
+              },
+              "type": "mcq_option"
+            },
+            {
+              "data": {
+                "value": "\\( [\\epsilon_0] = [\\mu_0] [L]^{-2} [T]^{2} \\)",
+                "type": "MCQOption"
+              },
+              "type": "mcq_option"
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "value": "\\( [\\epsilon_0] = [\\mu_0]^{-1} [L]^{2} [T]^{-2} \\)",
+                "type": "MCQOption"
+              }
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( [\\epsilon_0] = [\\mu_0]^{-1} [L]^{-2} [T]^{2} \\)"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "54",
+      "question": {
+        "type": "paraq",
+        "data": {
+          "type": "ParagraphQn",
+          "value": "If the measurement errors in all the independent quantities are known, then it is possible to determine the error in any dependent quantity. This is done by the use of series expansion and truncating the expansion to the first power of the error. For example, consider the relation \\( z = \\frac{x}{y} \\) If the errors in x, y and z are \\( \\Delta x \\),&nbsp;\\( \\Delta y \\),&nbsp;\\( \\Delta z \\) respectively, then$$ z \\pm \\Delta z = \\frac{x \\pm \\Delta x}{y \\pm \\Delta y} = \\frac{x}{y} (1 \\pm \\frac{\\Delta x}{x})(1 \\pm \\frac{\\Delta y}{y})^{-1}$$The series expansion for \\( (1 \\pm \\frac{\\Delta y}{y})^{-1} \\), to the first power of \\( \\frac{\\Delta y}{y} \\) is \\( 1 \\mp \\frac{\\Delta y}{y} \\). The relative errors in independent quantities are added. So the error in z will be&nbsp;$$ \\Delta z = z (\\frac{\\Delta x}{x} + \\frac{\\Delta y}{y}) $$The above derivation makes the assumption that \\( \\frac{\\Delta x}{x} \\ll 1\\) and \\( \\frac{\\Delta y}{y} \\ll 1 \\). Therefore the higher powers of these quantities are neglected"
+        }
+      },
+      "quesData": [
+        {
+          "id": "1",
+          "question": {
+            "type": "multiple_choice",
+            "statement": "Consider the ratio \\( r = \\frac{1 + \\alpha}{1 - \\alpha} \\) to be determined by measuring a dimensionless quantity \\( \\alpha \\). If the error in measurement of \\( \\alpha \\) is \\( \\Delta \\alpha (\\frac{\\Delta \\alpha}{\\alpha} \\ll 1) \\), then what is the error \\( \\Delta r \\) in determining \\( r \\)?"
+          },
+          "options": [
+            {
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( \\frac{\\Delta \\alpha}{(1 + \\alpha)^2} \\)"
+              },
+              "type": "mcq_option"
+            },
+            {
+              "data": {
+                "value": "\\( \\frac{2 \\Delta \\alpha}{(1 + \\alpha)^2} \\)",
+                "type": "MCQOption"
+              },
+              "type": "mcq_option"
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "\\( \\frac{2 \\Delta \\alpha}{(1 - \\alpha^2)} \\)"
+              }
+            },
+            {
+              "data": {
+                "value": "\\( \\frac{2 \\alpha \\Delta \\alpha}{(1 - \\alpha^2)} \\)",
+                "type": "MCQOption"
+              },
+              "type": "mcq_option"
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "question": {
+            "type": "multiple_choice",
+            "statement": "In an experiment, the initial number of radioactive nuclei is 3000. It is found that \\( 1000 \\pm 40 \\) nuclei decayed in the first \\( 1.0 \\) second. For \\( \\left | x \\right | \\ll 1 \\), \\( \\ln{1 + x} = x \\) up to the first power in \\( x \\). The error \\( \\Delta \\lambda \\), in determining the decay constant \\( \\lambda \\), in \\( s^{-1} \\) is&nbsp;"
+          },
+          "options": [
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "0.04"
+              }
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "0.03"
+              }
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "value": "0.02",
+                "type": "MCQOption"
+              }
+            },
+            {
+              "type": "mcq_option",
+              "data": {
+                "type": "MCQOption",
+                "value": "0.01"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+  
